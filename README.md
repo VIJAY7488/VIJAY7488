@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m 1'st Year Engineering Student at **IITG**
+ 🔭 I’m 3rd Year Engineering Student at **IITG**
 
 🌱 I’m currently learning **Competitive Programing** and **Web Devlopment**
 
